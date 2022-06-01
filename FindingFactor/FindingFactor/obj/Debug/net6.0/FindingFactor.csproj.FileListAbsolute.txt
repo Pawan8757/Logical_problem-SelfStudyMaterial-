@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\bin\Debug\net6.0\FindingFactor.exe
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\bin\Debug\net6.0\FindingFactor.deps.json
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\bin\Debug\net6.0\FindingFactor.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\bin\Debug\net6.0\FindingFactor.dll
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\bin\Debug\net6.0\FindingFactor.pdb
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.dll
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\refint\FindingFactor.dll
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.pdb
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\FindingFactor.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\FindingFactor\FindingFactor\obj\Debug\net6.0\ref\FindingFactor.dll
