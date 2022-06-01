@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\bin\Debug\net6.0\SuM_Digit.exe
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\bin\Debug\net6.0\SuM_Digit.deps.json
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\bin\Debug\net6.0\SuM_Digit.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\bin\Debug\net6.0\SuM_Digit.dll
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\bin\Debug\net6.0\SuM_Digit.pdb
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.dll
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\refint\SuM_Digit.dll
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.pdb
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\SuM_Digit.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\SuM_Digit\SuM_Digit\obj\Debug\net6.0\ref\SuM_Digit.dll
