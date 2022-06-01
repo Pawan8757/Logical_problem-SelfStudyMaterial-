@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\bin\Debug\net6.0\anagram_tutorial_again.exe
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\bin\Debug\net6.0\anagram_tutorial_again.deps.json
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\bin\Debug\net6.0\anagram_tutorial_again.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\bin\Debug\net6.0\anagram_tutorial_again.dll
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\bin\Debug\net6.0\anagram_tutorial_again.pdb
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.dll
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\refint\anagram_tutorial_again.dll
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.pdb
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\anagram_tutorial_again.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\anagram_tutorial_again\anagram_tutorial_again\obj\Debug\net6.0\ref\anagram_tutorial_again.dll
