@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\bin\Debug\net6.0\Temperature_Conversion.exe
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\bin\Debug\net6.0\Temperature_Conversion.deps.json
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\bin\Debug\net6.0\Temperature_Conversion.runtimeconfig.json
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\bin\Debug\net6.0\Temperature_Conversion.dll
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\bin\Debug\net6.0\Temperature_Conversion.pdb
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.dll
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\refint\Temperature_Conversion.dll
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.pdb
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\Temperature_Conversion.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Practise\Temperature_Conversion\Temperature_Conversion\obj\Debug\net6.0\ref\Temperature_Conversion.dll
