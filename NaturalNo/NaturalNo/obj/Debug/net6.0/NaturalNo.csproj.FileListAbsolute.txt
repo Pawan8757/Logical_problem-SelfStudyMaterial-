@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\bin\Debug\net6.0\NaturalNo.exe
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\bin\Debug\net6.0\NaturalNo.deps.json
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\bin\Debug\net6.0\NaturalNo.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\bin\Debug\net6.0\NaturalNo.dll
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\bin\Debug\net6.0\NaturalNo.pdb
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.dll
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\refint\NaturalNo.dll
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.pdb
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\NaturalNo.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\NaturalNo\NaturalNo\obj\Debug\net6.0\ref\NaturalNo.dll
