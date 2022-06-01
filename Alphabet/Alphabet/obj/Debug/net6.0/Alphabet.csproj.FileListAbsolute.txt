@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\bin\Debug\net6.0\Alphabet.exe
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\bin\Debug\net6.0\Alphabet.deps.json
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\bin\Debug\net6.0\Alphabet.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\bin\Debug\net6.0\Alphabet.dll
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\bin\Debug\net6.0\Alphabet.pdb
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.dll
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\refint\Alphabet.dll
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.pdb
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\Alphabet.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\Alphabet\Alphabet\obj\Debug\net6.0\ref\Alphabet.dll
