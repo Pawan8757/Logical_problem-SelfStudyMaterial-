@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\bin\Debug\net6.0\Find_Range.exe
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\bin\Debug\net6.0\Find_Range.deps.json
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\bin\Debug\net6.0\Find_Range.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\bin\Debug\net6.0\Find_Range.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\bin\Debug\net6.0\Find_Range.pdb
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\refint\Find_Range.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.pdb
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\Find_Range.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Range\Find_Range\obj\Debug\net6.0\ref\Find_Range.dll
