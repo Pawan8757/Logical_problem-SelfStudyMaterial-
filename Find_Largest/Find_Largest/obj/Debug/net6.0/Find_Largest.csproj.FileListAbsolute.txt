@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\bin\Debug\net6.0\Find_Largest.exe
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\bin\Debug\net6.0\Find_Largest.deps.json
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\bin\Debug\net6.0\Find_Largest.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\bin\Debug\net6.0\Find_Largest.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\bin\Debug\net6.0\Find_Largest.pdb
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\refint\Find_Largest.dll
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.pdb
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\Find_Largest.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\Find_Largest\Find_Largest\obj\Debug\net6.0\ref\Find_Largest.dll
