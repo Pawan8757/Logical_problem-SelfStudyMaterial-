@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\bin\Debug\net6.0\Fibanociii_Logic.exe
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\bin\Debug\net6.0\Fibanociii_Logic.deps.json
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\bin\Debug\net6.0\Fibanociii_Logic.runtimeconfig.json
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\bin\Debug\net6.0\Fibanociii_Logic.dll
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\bin\Debug\net6.0\Fibanociii_Logic.pdb
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.dll
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\refint\Fibanociii_Logic.dll
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.pdb
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\Fibanociii_Logic.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Being_Ready\Fibanociii_Logic\Fibanociii_Logic\obj\Debug\net6.0\ref\Fibanociii_Logic.dll
